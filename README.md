@@ -79,6 +79,5 @@ Repair materials and man power are also a scarce resource in this problem ad we 
 ├── Data                                       #datasets and visuals used in project
 ├── README.md                                  #the top-level README for reviewers of this project
 ├── Tanzania Water Pump Project.ipynb          #regression models
-├── Geo_parsing.ipynb                          #methodology used for geolocating coordinates
 └── Presentation.pdf                           #non-technical stakeholder presentation slides
 ```
